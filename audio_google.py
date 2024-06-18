@@ -10,7 +10,7 @@ import os
 import time
 
 # Line Notify 的 Token (請替換為你的實際 Token)
-LINE_NOTIFY_TOKEN = 'mCscvs8YLvly39yiHuL89u0hbKigB0ADyEX0B17G6dW'
+LINE_NOTIFY_TOKEN = 'LINE_NOTIFY_TOKEN'
 AUDIO_FILE = "./audio_record/recorded_audio" #.wav
 
 def send_line_notify(message, file_path=None): #使用 Line Notify 傳送訊息
@@ -116,4 +116,4 @@ if __name__ == "__main__":
         # if os.path.exists(AUDIO_FILE):
         #    os.remove(AUDIO_FILE)
         # 加入一個短暫的延遲，避免無限循環過快
-        time.sleep(0.3)
+        time.sleep(0.1)
