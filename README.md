@@ -8,7 +8,7 @@
 Radio to text reference:
 https://www.youtube.com/watch?v=rZfNMtbRpYQ
 
-Speech to text tool: Whisper github
+Whisper speech to text tool:
 https://github.com/openai/whisper
 ------------------------------------
 
