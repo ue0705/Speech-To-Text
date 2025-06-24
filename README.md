@@ -5,10 +5,18 @@
 
 另一個問題是，我絕對不是世界上第一個想到這樣做的人，所以我在 Google Search 後有找到這個 Youtube，但他的問題是輸入來源太過乾淨，無線電訊號是無比的吵雜，非常難以辨識(可以參考Audio目錄下的錄音範例，所有AI幾乎難以辨識)，但例如航空機師他們天天在聽，所以幾乎都沒問題，這裡也有一個有趣的現象，除了聲音之外，還有監控系統，如果這個人是你認識且熟悉的，出現在監控影像中，你可以輕易的從外型/走路姿勢/穿著/行為，就輕易的判斷出他是誰，即使影像很模糊，但人工智慧卻只能辨識清楚的人臉，無法像真正的人類那樣判斷，所以這也就是為什麼無線電困難的地方。
 
+測試不同的語音轉文字功能
 ![image](https://github.com/user-attachments/assets/1ea08e20-616f-41b9-8fe7-9e027584ef5f)
 
+攔截特殊關鍵字, 可以應用在消防隊救災, 警察特種部隊攻堅, 塔台通話記錄即時轉譯儲存, 戰場前線即時情況回覆, 而且收到文字訊息的人可以躺在家中, 遠在千里之外了解第一手的前線訊息, 不需高頻寬畫面通訊, 且可24hr時時掌握第一手消息.
 ![image](https://github.com/user-attachments/assets/2e0f2566-0660-45c5-a548-48a0bbcc30e4)
 
+Local SBC(Single Board Computer), 算力足耗電且貴, 算力弱便宜但無法語音辨識, 最後選最通用的 Raspberry Pi, 便宜好部署, 用4G/5G將壓縮過後的聲音交給雲端算力猛AI(花Token錢)來解決.
+![image](https://github.com/user-attachments/assets/d9890482-b61d-4cb9-90ed-87cbe72946b0)
+
+實際街上無線電執行的樣子與效果.
+![image](https://github.com/user-attachments/assets/29268985-43ad-41b2-9811-3d34b3733b04)
+![image](https://github.com/user-attachments/assets/98c313c5-a069-457e-a970-ac07a1b60c01)
 
 Radio to text reference:
 https://www.youtube.com/watch?v=rZfNMtbRpYQ
