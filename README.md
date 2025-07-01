@@ -16,6 +16,8 @@ Local SBC(Single Board Computer), 算力足耗電且貴, 算力弱便宜但無�
 
 實際街上無線電執行的樣子與效果.
 ![image](https://github.com/user-attachments/assets/29268985-43ad-41b2-9811-3d34b3733b04)
+
+辨識度等需要再提升,這個花錢給 GPT 買 token 就可以提升一個檔次, 窮人就先湊合著用.
 ![image](https://github.com/user-attachments/assets/98c313c5-a069-457e-a970-ac07a1b60c01)
 
 Radio to text reference:
